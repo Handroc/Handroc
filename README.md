@@ -1,5 +1,3 @@
-## About me
-
 I am currently a student in Full Stack development at [Holberton School](https://www.holbertonschool.fr/), where I am building strong foundations in software engineering and modern web technologies.
 <br>
 Through Holberton’s project-based [methodology](https://www.holbertonschool.fr/methodologie), I have developed the ability to learn independently, solve complex problems, and quickly adapt to new technologies.

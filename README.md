@@ -4,4 +4,4 @@ Through Holberton’s project-based [methodology](https://www.holbertonschool.fr
 
 During my training, I have worked on multiple technical projects that strengthened my understanding of programming, databases, and web development. These experiences helped me develop rigor, problem-solving skills, and strong attention to detail.
 
-I am currently looking for a **Full Stack development apprenticeship starting in August 2026**, where I can continue learning, contribute to meaningful projects, and grow within a collaborative and technically challenging environment.
+I am currently looking for an **apprenticeship starting in August 2026** focused on **networking, cybersecurity, and cloud infrastructure**. where I can continue learning and growing.
